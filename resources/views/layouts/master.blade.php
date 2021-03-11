@@ -16,7 +16,7 @@
                 <div class="card-header">
                     Exportable DataTable
                 </div>
-                <div class="card-dody">
+                <div class="card-dody m-2">
                     @yield('content')
                 </div>
             </div>
